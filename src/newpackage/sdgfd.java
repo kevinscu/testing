@@ -1,5 +1,5 @@
 package newpackage;
 
-public class c6 {
+public class sdgfd {
 
 }
